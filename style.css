@@ -26,3 +26,8 @@ body {
 font-family: 'caslon', 'Meddon', 'Century Gothic', 'Helvetica Neue', Helvetica, cursive;
 font-size: 2.5em;
 }
+
+#headimg {
+  border: none;
+  margin-bottom:10px !important;
+}
