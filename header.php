@@ -56,7 +56,7 @@
           <a href="<?php echo home_url(); ?>">
 					<div id="headimg"></div>
           </a>
-					<i id="tagline"><a href="#">Mere Smith</a><br />
+					<i id="tagline"><a href="/about">Mere Smith</a><br />
 					is a recovering Southerner,<br />
 					longtime TV writer,<br />
 					author and blogger.</i>
