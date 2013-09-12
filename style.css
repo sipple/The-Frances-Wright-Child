@@ -1,0 +1,28 @@
+/**
+ * Theme Name: The Frances Wright Child
+ * Template: the-frances-wright
+**/
+
+@import url('../the-frances-wright/style.css');
+
+@font-face {
+    font-family: 'caslon';
+    src: url('webfonts/284F83_0_0.eot') format('eot'),
+         url('webfonts/284F83_0_0.woff') format('woff'),
+         url('webfonts/284F83_0_0.ttf') format('truetype'),
+         url('webfonts/284FA2_0_0') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#site-title {margin-bottom: 10px; display: inline; float: left;}
+#menu {margin-bottom: 10px; float: left; padding-top: 15px; padding-left: 30px;}
+
+body {
+	background: #b90606;
+}
+
+#site_title {
+font-family: 'caslon', 'Meddon', 'Century Gothic', 'Helvetica Neue', Helvetica, cursive;
+font-size: 2.5em;
+}
