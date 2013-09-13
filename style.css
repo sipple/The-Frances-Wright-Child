@@ -22,6 +22,14 @@ body {
 	background: #b90606;
 }
 
+p, div {
+  font-family: 'Libre Baskerville', 'PT Serif', Georgia, Times, serif
+}
+
+p {
+  text-indent: 30px;
+}
+
 #site_title {
 font-family: 'caslon', 'Meddon', 'Century Gothic', 'Helvetica Neue', Helvetica, cursive;
 font-size: 2.5em;
